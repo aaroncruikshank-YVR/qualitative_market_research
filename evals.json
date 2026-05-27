@@ -1,0 +1,26 @@
+{
+  "skill_name": "qualitative-market-research",
+  "evals": [
+    {
+      "id": 0,
+      "name": "method-choice-and-design-for-churn-study",
+      "prompt": "Hey, my boss has asked me to lead a research project to understand why our SaaS customers are downgrading or cancelling their subscriptions in the first 6 months. I've never done qualitative research before. I have a budget of about $25k and three weeks of timeline. Should I do interviews or focus groups? How many? Online or in person? Where do I even start? Please walk me through how you'd think about it and what I should actually do next.",
+      "expected_output": "A beginner-friendly walkthrough that: (1) explains why qual is the right tool for a 'why did they leave' question (or notes when quant would help); (2) recommends IDIs over focus groups for this case with a clear reason (sensitive topic, individual decisions, plus practical recruiting issues with churned customers); (3) gives a sample size recommendation in the 12-16 range with reasoning; (4) recommends online video IDIs given budget/timeline/distributed sample; (5) gives a concrete next-step ordered list (define population, write screener, find recruiter, write guide, etc.); (6) flags a few key beginner pitfalls relevant to a churn study (e.g., letting the client recruit only happy customers, leading questions about competitors).",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "write-discussion-guide-for-online-fg",
+      "prompt": "I'm running my first online focus groups next month. The client is a Canadian tenant-insurance startup. They want to understand how 25-to-40-year-old renters in Toronto and Vancouver think about renters insurance: why they don't have it, what would make them buy it, and how they react to two concept statements (we'll share those later). Can you help me write a discussion guide? I have about 75 minutes per group, and we'll run 4 groups (2 per city). Each group will have 5 participants. I've literally never moderated before.",
+      "expected_output": "A discussion guide that: (1) has the universal structure (pre-session/consent, warm-up, context, target, stimuli, wrap); (2) is calibrated to ~75 minutes with realistic time allocations; (3) is adapted for online video focus groups specifically (smaller group size acknowledged, round-robins, silent writing exercises, mute discipline mentioned); (4) puts stimuli late in the session, not early; (5) includes specific probe wording, not just topline questions; (6) addresses both 'why don't you have it' (past behavior) and 'how do you react' (stimulus) sections; (7) includes moderator notes for a first-timer (handling dominators, silence, neutrality); (8) flags common beginner pitfalls (leading questions, double-barreled questions, hypotheticals).",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "how-to-analyze-and-report-idi-transcripts",
+      "prompt": "I just finished 10 in-depth video interviews with US-based hospital cardiologists about how they evaluate a new transcatheter heart valve device my client is launching. Each interview is about 60 minutes. I have transcripts from Otter.ai. I've never done qualitative analysis before and I need to deliver a report to the client in 10 days. I'm overwhelmed by the volume of material. How do I actually go from a pile of transcripts to a report that's useful for the client's marketing and clinical-education teams? What do I do first?",
+      "expected_output": "A concrete, step-by-step analysis and reporting plan that: (1) starts with 'read before you code' (familiarization across transcripts); (2) describes open coding clearly with examples of code types (descriptive, in vivo, process, emotion); (3) explains how to build themes from codes (5-7 themes target); (4) covers saturation realistically for 10 IDIs; (5) addresses Otter.ai transcript review and accuracy concerns for medical/technical content; (6) recommends a specific report structure (finding-evidence-implication); (7) explicitly tells the analyst NOT to use percentages or precise counts when reporting qual; (8) addresses how to handle anonymization carefully in a small B2B sample where individuals are identifiable; (9) gives realistic time allocation across the 10 days; (10) optionally addresses AI-assisted coding workflows. Should NOT be a generic 'use NVivo' answer.",
+      "files": []
+    }
+  ]
+}
